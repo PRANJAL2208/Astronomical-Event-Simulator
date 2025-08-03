@@ -141,8 +141,3 @@ Your `planets.csv` file should contain:
 
 👉 [Project Slides on Canva](https://www.canva.com/design/DAGXv-0oGkI/LLVv1jQCr-Aw9J_zRCmoyA/edit?utm_content=DAGXv-0oGkI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
